@@ -122,7 +122,7 @@
         <IncludePath Value="device"/>
         <IncludePath Value="cmsis"/>
         <IncludePath Value="usb"/>
-        <IncludePath Value="emlib/inc"/>
+        <IncludePath Value="emlib"/>
         <IncludePath Value="kernel"/>
         <Preprocessor Value="NDEBUG"/>
         <Preprocessor Value="DEBUG_EFM=0"/>
